@@ -59,3 +59,7 @@ This project is part of my learning journey in Machine Learning and focuses on u
    git clone 
    https://github.com/vinayakvsc/Auto-MPG-Linear-Regression.git
 
+## 📌 Learning Outcome
+This project helped me understand the complete workflow of a regression problem, from data preprocessing to model evaluation and interpretation.
+
+
