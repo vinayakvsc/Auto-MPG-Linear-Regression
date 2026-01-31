@@ -55,8 +55,7 @@ This project is part of my learning journey in Machine Learning and focuses on u
 
 ---
 
-## ▶️ How to Run the Project
-1. Clone the repository
-   ```bash
-   git clone <your-repo-link>
+## ▶️ Run the Project
+   git clone 
+   https://github.com/vinayakvsc/Auto-MPG-Linear-Regression.git
 
